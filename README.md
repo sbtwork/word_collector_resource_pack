@@ -1,0 +1,1 @@
+# word_collector_resource_pack
